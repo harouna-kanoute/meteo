@@ -115,9 +115,6 @@ export default {
         margin: 20px 0px;
     }
 
-    .weatherData{
-       
-    }
     .weatherDeg{
         padding: 10px;
         width: 200px;
